@@ -1,0 +1,19 @@
+passed by value : in javascript primitve data types are pass by value
+passed by reference: in javascript non primitve data types are pass by reference. like arrays and objects.
+
+static typing, dynamic typing: java script is dynamic typing
+var x=0; 
+var y=4;
+x=y;
+
+primitive type
+non-primitive type
+
+strinct mode in javaScript
+  duplicate arguments are not allowed by devlopers
+   you are not allowed to use js keywords as parameters or function names
+   use strict- keyword is used to define strict mode
+   you are not allowed to create global varible in strict mode
+   
+   
+   
